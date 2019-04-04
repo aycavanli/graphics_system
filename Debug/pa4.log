@@ -1,0 +1,8 @@
+﻿  pa4.cpp
+  Kod Üretiliyor...
+  Atlanıyor... (ilgili hiçbir değişiklik algılanmadı)
+  Main.cpp
+Main.obj : error LNK2019: Çözümlenmemiş dış sembol "public: void __thiscall DispWindow::draw<class Rectangle>(class Rectangle const &)" (??$draw@VRectangle@@@DispWindow@@QAEXABVRectangle@@@Z), "void __cdecl drawHome(void)" (?drawHome@@YAXXZ) işlevinde başvurdu
+Main.obj : error LNK2019: Çözümlenmemiş dış sembol "public: void __thiscall DispWindow::draw<class Line>(class Line const &)" (??$draw@VLine@@@DispWindow@@QAEXABVLine@@@Z), "void __cdecl drawHome(void)" (?drawHome@@YAXXZ) işlevinde başvurdu
+Main.obj : error LNK2019: Çözümlenmemiş dış sembol "public: void __thiscall DispWindow::draw<class Dot>(class Dot const &)" (??$draw@VDot@@@DispWindow@@QAEXABVDot@@@Z), "void __cdecl drawDots(void)" (?drawDots@@YAXXZ) işlevinde başvurdu
+C:\Users\Pc\Desktop\1.yıl\2.yy\com102\c++\pa4\Debug\pa4.exe : fatal error LNK1120: 3 çözümlenmemiş dışlar
